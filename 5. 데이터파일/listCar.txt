@@ -1,0 +1,111 @@
+그랜저,11
+포터,11
+아반떼,2
+펠리세이드,2
+쏘나타,4
+투싼,4
+싼타페,4
+넥쏘,4
+베뉴,1
+스타렉스,2
+코나,4
+스타리아,1
+아이오닉,3
+벨로스터-N,3
+카니발,3
+봉고,2
+쏘렌토,4
+K5,5
+K8,4
+레이,4
+셀토스,5
+모닝,3
+K3,3
+모하비,1
+니로,2
+K7,5
+K9,4
+스팅어,3
+G80,5
+GV70,4
+GV80,5
+G90,2
+트레일블레이저,2
+스파크,1
+다마스,3
+트래버스,1
+트랙스,1
+말리부,4
+콜로라도,2
+볼트,1
+이쿼녹스,1
+QM6,5
+XM3,3
+SM6,5
+BMW 5 Series,1
+BMW 3 Series,1
+BMW 6 Series,1
+BMW 2 Series,4
+BMW 7 Series,2
+BMW 1 Series,5
+BMW X5,1
+BMW X3,2
+BMW X7,5
+BMW X6,3
+BMW X4,5
+BMW X1,2
+MB E-Class,3
+MB GLC-Class,3
+MB GLB-Class,5
+MB CLS-Class,4
+MB GLE-Class,5
+MB A-Class,4
+MB GLA-Class,2
+MB G-Class,1
+MB C-Class,3
+porsche Cayenne,1
+porsche Taycan,3
+porsche Panamera,5
+porsche 718 Boxster,3
+porsche Macan,1
+porsche 911,4
+porsche 718 Cayman,5
+Lamborghini Urus,1
+Lamborghini Huracan,3
+Lamborghini Aventador,1
+Ferrari Portofino Modificata,4
+Ferrari Roma,1
+Ferrari SF90 Stradale,4
+Ferrari F8 Tributo,4
+Ferrari 812 SuperFast,4
+LaFerrari,3
+Maserati Levante,2
+Maserati Ghibli,5
+Maserati Quattroporte,4
+Maserati Corse 20,1
+Maserati Levante,1
+McLaren Artura,3
+McLaren 720S,5
+McLaren 765LT,3
+McLaren Speedtail,4
+McLaren SENNA,5
+McLaren ELVAMcLaren Sabre,5
+McLaren GT,1
+Bentley Flying Spur,4
+Bentley Bentayga,1
+Bentley Continental,2
+Rolls-Royce Phantom,0
+Rolls-Royce Ghost,2
+Rolls-Royce Dawn,5
+Rolls-Royce Cullinan,2
+Bugatti Chiron,4
+Bugatti Divo,3
+Bugatti Centodieci,2
+Bugatti La Voiture Noire,1
+TESLA Model-S,1
+TESLA Model-3,4
+TESLA Model-X,4
+TESLA Model-Y,5
+TESLA Roadster,4
+TESLA Cybertruck,1
+TESLA Semi,0

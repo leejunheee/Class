@@ -1,0 +1,6 @@
+공유,sfdsf,sfdsf@sis2.co.kr,010-4352-7658,차장,디자인
+송강,jgjhg,jgjhg@sis2.co.kr,010-2345-6785,인턴,회계
+박보검,cbbc,cbbc@sis2.co.kr,010-1256-7845,대리,인사
+김선호,hfgh,hfgh@sis2.co.kr,010-1256-7532,과장,마케팅
+유태오,tt1234,tt1234@sist2.co.kr,010-1234-5678,과장,개발
+가가가,ggg,ggg@sist2.co.kr,010-1234-5678,인턴,개발
